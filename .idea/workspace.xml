@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a1192fc-1042-4bea-98f1-959e0cda8d11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="c5806516-e535-42fd-a8bd-b772ea0a2552" />
+  <component name="ProjectId" id="1bMBSXkTBpKvq7mZpuWLIkigkUb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/account/api" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/account/api" />
+      <recent name="$PROJECT_DIR$/favourite/api" />
+      <recent name="$PROJECT_DIR$/favourite" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django tests.Test: post.tests.TestPostListCreate">
+    <configuration name="Test: post.tests.TestPostListCreate" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="post.tests.TestPostListCreate" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: post.tests.TestUpdateDelete" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="post.tests.TestUpdateDelete" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: post.tests.TestUpdateDelete.test_post_update" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="post.tests.TestUpdateDelete.test_post_update" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: post.tests.TestUpdateDelete.test_post_update_different_user" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="post.tests.TestUpdateDelete.test_post_update_different_user" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: post.tests.TestUpdateDelete.test_unauthorization" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="post.tests.TestUpdateDelete.test_unauthorization" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="blog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="blog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/django-rest/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: post.tests.TestPostListCreate" />
+        <item itemvalue="Django tests.Test: post.tests.TestUpdateDelete" />
+        <item itemvalue="Django tests.Test: post.tests.TestUpdateDelete.test_unauthorization" />
+        <item itemvalue="Django tests.Test: post.tests.TestUpdateDelete.test_post_update_different_user" />
+        <item itemvalue="Django tests.Test: post.tests.TestUpdateDelete.test_post_update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a1192fc-1042-4bea-98f1-959e0cda8d11" name="Default Changelist" comment="" />
+      <created>1588432082284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588432082284</updated>
+      <workItem from="1588432088370" duration="11954000" />
+      <workItem from="1588538212870" duration="936000" />
+      <workItem from="1588588202548" duration="8143000" />
+      <workItem from="1588687095121" duration="2362000" />
+      <workItem from="1588697089184" duration="230000" />
+      <workItem from="1588703140657" duration="37316000" />
+      <workItem from="1588925541210" duration="21300000" />
+      <workItem from="1588973841054" duration="1055000" />
+      <workItem from="1589034060678" duration="18000" />
+      <workItem from="1589054351280" duration="11431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="178" key="#blog" timestamp="1588432288370">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="781" y="178" key="#blog/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1588432288370" />
+    <state x="1127" y="326" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588609170437">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="1127" y="326" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1588609170437" />
+    <state x="842" y="343" key="EnvironmentVariablesDialog" timestamp="1588432278655">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="842" y="343" key="EnvironmentVariablesDialog/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1588432278655" />
+    <state x="875" y="333" key="FileChooserDialogImpl" timestamp="1588432247364">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="875" y="333" key="FileChooserDialogImpl/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1588432247364" />
+    <state width="962" height="289" key="GridCell.Tab.0.bottom" timestamp="1588973267899">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="962" height="289" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1588973267899" />
+    <state width="862" height="303" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1588886727772" />
+    <state width="865" height="289" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1588937331703" />
+    <state width="962" height="289" key="GridCell.Tab.0.center" timestamp="1588973267899">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="962" height="289" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1588973267899" />
+    <state width="862" height="303" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1588886727772" />
+    <state width="865" height="289" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1588937331703" />
+    <state width="962" height="289" key="GridCell.Tab.0.left" timestamp="1588973267898">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="962" height="289" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1588973267898" />
+    <state width="862" height="303" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1588886727772" />
+    <state width="865" height="289" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1588937331702" />
+    <state width="962" height="289" key="GridCell.Tab.0.right" timestamp="1588973267899">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="962" height="289" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1588973267899" />
+    <state width="862" height="303" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1588886727772" />
+    <state width="865" height="289" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1588937331703" />
+    <state x="589" y="210" key="SettingsEditor" timestamp="1588434431390">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="589" y="210" key="SettingsEditor/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1588434431390" />
+    <state x="2215" y="390" key="com.intellij.ide.util.TipDialog" timestamp="1589054351432">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="395" y="404" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1588973843783" />
+    <state x="395" y="404" key="com.intellij.ide.util.TipDialog/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1588925548697" />
+    <state x="2215" y="390" key="com.intellij.ide.util.TipDialog/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1589054351432" />
+    <state x="939" y="328" width="684" height="505" key="find.popup" timestamp="1589139212139">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="939" y="328" width="684" height="505" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1589139212139" />
+    <state x="939" y="328" width="683" height="486" key="find.popup/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1588435170548" />
+    <state x="2798" y="317" width="732" height="486" key="find.popup/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1588791499944" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserRegistrationTestCase_test_uniq_user_name.coverage" NAME="Test: account.tests.UserRegistrationTestCase.test_uniq_user_name Coverage Results" MODIFIED="1588842714175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__post_tests_TestUpdateDelete_test_post_update_different_user.coverage" NAME="Test: post.tests.TestUpdateDelete.test_post_update_different_user Coverage Results" MODIFIED="1588972286744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserPasswordChange_test_with_empty_information.coverage" NAME="Test: account.tests.UserPasswordChange.test_with_empty_information Coverage Results" MODIFIED="1588882730063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserLogin_test_user_token.coverage" NAME="Test: account.tests.UserLogin.test_user_token Coverage Results" MODIFIED="1588871484968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserRegistrationTestCase_test_user_authenticated_token_registration.coverage" NAME="Test: account.tests.UserRegistrationTestCase.test_user_authenticated_token_registration Coverage Results" MODIFIED="1588856222307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserPasswordChange_test_with_wrong_information.coverage" NAME="Test: account.tests.UserPasswordChange.test_with_wrong_information Coverage Results" MODIFIED="1588882659524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__comment_tests_CommentUpdateDeleteTest_test_update_comment.coverage" NAME="Test: comment.tests.CommentUpdateDeleteTest.test_update_comment Coverage Results" MODIFIED="1588966817340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserProfileUpdate_test_with_empty_information.coverage" NAME="Test: account.tests.UserProfileUpdate.test_with_empty_information Coverage Results" MODIFIED="1588934636417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteUpdateDelete_test_fav_delete.coverage" NAME="Test: favourite.tests.FavouriteUpdateDelete.test_fav_delete Coverage Results" MODIFIED="1588939028221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__comment_tests_CommentUpdateDeleteTest_test_update_different_user_comment.coverage" NAME="Test: comment.tests.CommentUpdateDeleteTest.test_update_different_user_comment Coverage Results" MODIFIED="1588967566866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteUpdateDelete_test_authentiacated_user.coverage" NAME="Test: favourite.tests.FavouriteUpdateDelete.test_authentiacated_user Coverage Results" MODIFIED="1588941798545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteCreateList_test_add_favourite.coverage" NAME="Test: favourite.tests.FavouriteCreateList.test_add_favourite Coverage Results" MODIFIED="1588936786123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__post_tests_TestUpdateDelete_test_post_delete_different_user.coverage" NAME="Test: post.tests.TestUpdateDelete.test_post_delete_different_user Coverage Results" MODIFIED="1588972137680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteCreateList_test_add_favourites.coverage" NAME="Test: favourite.tests.FavouriteCreateList.test_add_favourites Coverage Results" MODIFIED="1588937331693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__comment_tests_CommentCreate_test_add_comment.coverage" NAME="Test: comment.tests.CommentCreate.test_add_comment Coverage Results" MODIFIED="1588946947544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserRegistrationTestCase_test_user_invalid_password.coverage" NAME="Test: account.tests.UserRegistrationTestCase.test_user_invalid_password Coverage Results" MODIFIED="1588842411877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserLogin_test_user_empty_data.coverage" NAME="Test: account.tests.UserLogin.test_user_empty_data Coverage Results" MODIFIED="1588871871654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserRegistrationTestCase.coverage" NAME="Test: account.tests.UserRegistrationTestCase Coverage Results" MODIFIED="1588871913229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteUpdateDelete_test_login.coverage" NAME="Test: favourite.tests.FavouriteUpdateDelete.test_login Coverage Results" MODIFIED="1588944261527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__post_tests_TestUpdateDelete_test_unauthorization.coverage" NAME="Test: post.tests.TestUpdateDelete.test_unauthorization Coverage Results" MODIFIED="1588972290867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__comment_tests_CommentCreate_test_add_child_comment.coverage" NAME="Test: comment.tests.CommentCreate.test_add_child_comment Coverage Results" MODIFIED="1588947194003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__post_tests_TestUpdateDelete_test_post_delete.coverage" NAME="Test: post.tests.TestUpdateDelete.test_post_delete Coverage Results" MODIFIED="1588972134090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserRegistrationTestCase_test_user_authenticated_registration.coverage" NAME="Test: account.tests.UserRegistrationTestCase.test_user_authenticated_registration Coverage Results" MODIFIED="1588855607068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__comment_tests_CommentUpdateDeleteTest_test_comment_delete_different_user.coverage" NAME="Test: comment.tests.CommentUpdateDeleteTest.test_comment_delete_different_user Coverage Results" MODIFIED="1588966938470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserLogin_test_user_invalid_data.coverage" NAME="Test: account.tests.UserLogin.test_user_invalid_data Coverage Results" MODIFIED="1588871651961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteUpdateDelete_test_user_token.coverage" NAME="Test: favourite.tests.FavouriteUpdateDelete.test_user_token Coverage Results" MODIFIED="1588943057042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserProfileUpdate_test_with_valid_information.coverage" NAME="Test: account.tests.UserProfileUpdate.test_with_valid_information Coverage Results" MODIFIED="1588934769564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteUpdateDelete_test_fav_update.coverage" NAME="Test: favourite.tests.FavouriteUpdateDelete.test_fav_update Coverage Results" MODIFIED="1588942642464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__comment_tests_CommentUpdateDeleteTest_test_delete_comment.coverage" NAME="Test: comment.tests.CommentUpdateDeleteTest.test_delete_comment Coverage Results" MODIFIED="1588966912655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__post_tests_TestPostListCreate_test_add_new_post_unauthorizated_user.coverage" NAME="Test: post.tests.TestPostListCreate.test_add_new_post_unauthorizated_user Coverage Results" MODIFIED="1588969841714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserProfileUpdate_test_is_authenticated_user.coverage" NAME="Test: account.tests.UserProfileUpdate.test_is_authenticated_user Coverage Results" MODIFIED="1588932931772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__comment_tests_CommentUpdateDeleteTest_test_something.coverage" NAME="Test: comment.tests.CommentUpdateDeleteTest.test_something Coverage Results" MODIFIED="1588967899748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserPasswordChange_test_with_valid_information.coverage" NAME="Test: account.tests.UserPasswordChange.test_with_valid_information Coverage Results" MODIFIED="1588882663062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__post_tests_TestPostListCreate.coverage" NAME="Test: post.tests.TestPostListCreate Coverage Results" MODIFIED="1588972467477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteUpdateDelete_test_fav_delete_different_user.coverage" NAME="Test: favourite.tests.FavouriteUpdateDelete.test_fav_delete_different_user Coverage Results" MODIFIED="1588943460150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteUpdateDelete_test_fav_update_different_user.coverage" NAME="Test: favourite.tests.FavouriteUpdateDelete.test_fav_update_different_user Coverage Results" MODIFIED="1588943585937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__post_tests_TestPostListCreate_test_list_posts.coverage" NAME="Test: post.tests.TestPostListCreate.test_list_posts Coverage Results" MODIFIED="1588970706422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__comment_tests_CommentListCreate.coverage" NAME="Test: comment.tests.CommentListCreate Coverage Results" MODIFIED="1588967918767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteCreateList.coverage" NAME="Test: favourite.tests.FavouriteCreateList Coverage Results" MODIFIED="1588936137337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__post_tests_TestPostListCreate_test_add_new_post.coverage" NAME="Test: post.tests.TestPostListCreate.test_add_new_post Coverage Results" MODIFIED="1588969735772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__post_tests_TestUpdateDelete.coverage" NAME="Test: post.tests.TestUpdateDelete Coverage Results" MODIFIED="1588972461066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserPasswordChange.coverage" NAME="Test: account.tests.UserPasswordChange Coverage Results" MODIFIED="1588881984839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteUpdateDelete_test_unauthorization.coverage" NAME="Test: favourite.tests.FavouriteUpdateDelete.test_unauthorization Coverage Results" MODIFIED="1588944404626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__favourite_tests_FavouriteUpdateDelete.coverage" NAME="Test: favourite.tests.FavouriteUpdateDelete Coverage Results" MODIFIED="1588944700742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__comment_tests_CommentUpdateDeleteTest.coverage" NAME="Test: comment.tests.CommentUpdateDeleteTest Coverage Results" MODIFIED="1588967924417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__comment_tests_CommentCreate_test_comment_list.coverage" NAME="Test: comment.tests.CommentCreate.test_comment_list Coverage Results" MODIFIED="1588947468708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__post_tests_TestUpdateDelete_test_post_update.coverage" NAME="Test: post.tests.TestUpdateDelete.test_post_update Coverage Results" MODIFIED="1588972279139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/blog$Test__account_tests_UserRegistrationTestCase_test_user_registration.coverage" NAME="Test: account.tests.UserRegistrationTestCase.test_user_registration Coverage Results" MODIFIED="1588842181785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
